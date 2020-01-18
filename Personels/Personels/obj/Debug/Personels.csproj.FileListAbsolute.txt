@@ -1,0 +1,12 @@
+C:\Users\Muhammed\source\repos\Personels\Personels\bin\Debug\Personels.exe.config
+C:\Users\Muhammed\source\repos\Personels\Personels\bin\Debug\Personels.exe
+C:\Users\Muhammed\source\repos\Personels\Personels\bin\Debug\Personels.pdb
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.exe
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.pdb
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.AcademicPersonelForm.resources
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.AdministrativePersonelForm.resources
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.PersonelForm.resources
+C:\Users\Muhammed\source\repos\Personels\Personels\obj\Debug\Personels.Personel.resources
